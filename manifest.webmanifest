@@ -1,1 +1,1 @@
-{"name":"PTI","short_name":"PTI","description":"Personal Training Intelligence","start_url":"/","display":"standalone","background_color":"#111111","theme_color":"#111111","lang":"en","scope":"/","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
+{"name":"PTI","short_name":"PTI","description":"Personal Training Intelligence","start_url":"/pti-app/","display":"standalone","background_color":"#111111","theme_color":"#111111","lang":"en","scope":"/pti-app/","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
