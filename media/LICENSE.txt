@@ -1,0 +1,4 @@
+Reference exercise images in this folder come from free-exercise-db
+https://github.com/yuhonas/free-exercise-db (commit f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5).
+License: The Unlicense (public domain), verified 2026-10-18.
+Mapping from PTI exercise ids to source ids: program/media.map.json (D51).
