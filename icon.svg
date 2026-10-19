@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><rect width="128" height="128" rx="24" fill="#2f6fed"/><text x="64" y="82" font-family="system-ui,sans-serif" font-size="56" font-weight="700" fill="#fff" text-anchor="middle">A</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- PTI icon, variant A: dumbbell. Tokens from 05: charcoal #0B0C10/#1E212B, amber #F5A524. -->
+  <defs>
+    <linearGradient id="g-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1E212B"/><stop offset="1" stop-color="#0B0C10"/></linearGradient>
+    <radialGradient id="g-glow" cx="0.5" cy="1.05" r="0.75"><stop offset="0" stop-color="#F5A524" stop-opacity="0.22"/><stop offset="1" stop-color="#F5A524" stop-opacity="0"/></radialGradient>
+    <linearGradient id="g-am" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFC247"/><stop offset="1" stop-color="#EE9A18"/></linearGradient>
+  </defs>
+  <rect id="tile" width="1024" height="1024" rx="220" fill="url(#g-bg)"/>
+  <rect id="glow" width="1024" height="1024" rx="220" fill="url(#g-glow)"/>
+  <g id="mark" fill="url(#g-am)">
+    <rect x="212" y="484" width="600" height="56" rx="28"/>
+    <rect x="236" y="368" width="92" height="288" rx="32"/>
+    <rect x="696" y="368" width="92" height="288" rx="32"/>
+    <rect x="152" y="414" width="72" height="196" rx="28"/>
+    <rect x="800" y="414" width="72" height="196" rx="28"/>
+  </g>
+</svg>
